@@ -1,2 +1,6 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python3 algorithm/Stack_10828.py"
+=======
+run = "python3 algorithm/test.py"
+>>>>>>> 630757e67e6e4dc25f445bd00098e64d22fbe7e0
