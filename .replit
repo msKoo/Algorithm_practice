@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 algorithm/Stack_10828.py"
+run = "python3 algorithm/Bracket_9012.py"

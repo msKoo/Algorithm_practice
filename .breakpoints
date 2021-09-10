@@ -1,5 +1,13 @@
 {
   "files": {
+    "algorithm/Bracket_9012.py": [
+      {
+        "id": "41711c1a-131c-4525-9d76-880c28a651b3",
+        "line": 8,
+        "version": 99,
+        "index": 107
+      }
+    ],
     "algorithm/test.py": [
       {
         "id": "327eea50-7063-4278-a48b-b14fde6e78e3",
