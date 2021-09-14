@@ -3,9 +3,9 @@
     "algorithm/Bracket_9012.py": [
       {
         "id": "41711c1a-131c-4525-9d76-880c28a651b3",
-        "line": 8,
-        "version": 99,
-        "index": 107
+        "line": 27,
+        "version": 1413,
+        "index": 529
       }
     ],
     "algorithm/test.py": [
