@@ -3,9 +3,15 @@
     "algorithm/Bracket_9012.py": [
       {
         "id": "41711c1a-131c-4525-9d76-880c28a651b3",
+<<<<<<< HEAD
         "line": 30,
         "version": 1528,
         "index": 537
+=======
+        "line": 27,
+        "version": 1413,
+        "index": 529
+>>>>>>> 90a55bb0ce4661b9163eb21a6d242e588c8bb361
       }
     ],
     "algorithm/test.py": [
