@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 algorithm/Queue_10845.py"
+run = "python3 COTE/Implementation_2.py"
