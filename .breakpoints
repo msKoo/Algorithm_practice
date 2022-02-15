@@ -2,10 +2,31 @@
   "files": {
     "COTE/Greedy_1.py": [
       {
+<<<<<<< HEAD
         "id": "81ea56d9-a936-48f3-bf59-1c3cc6432f8f",
         "line": 10,
         "version": 1,
         "index": 107
+=======
+        "id": "41711c1a-131c-4525-9d76-880c28a651b3",
+<<<<<<< HEAD
+        "line": 30,
+        "version": 1528,
+        "index": 537
+=======
+        "line": 27,
+        "version": 1413,
+        "index": 529
+>>>>>>> 90a55bb0ce4661b9163eb21a6d242e588c8bb361
+      }
+    ],
+    "algorithm/test.py": [
+      {
+        "id": "327eea50-7063-4278-a48b-b14fde6e78e3",
+        "line": 13,
+        "version": 20,
+        "index": 285
+>>>>>>> origin/master
       }
     ]
   }
